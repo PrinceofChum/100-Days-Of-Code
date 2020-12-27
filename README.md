@@ -16,3 +16,11 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -List Comprehension
 
 [Day 2 Notes]
+
+**Day 3:** Learnt about "Stacks"
+
+        -Introduction to Stack
+        -Implementation of Stacks using list
+        -Applications of Stack
+        
+[Day 3 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2003/2020.12.27%20-%20Doc%20Scanner.pdf)
