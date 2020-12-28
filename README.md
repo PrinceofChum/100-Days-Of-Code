@@ -15,7 +15,7 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -How to use lists
         -List Comprehension
 
-[Day 2 Notes]
+[Day 2 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2002/Day%202%20Notes%20-%20Array-List.pdf)
 
 **Day 3:** Learnt about "Stacks"
 
