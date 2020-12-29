@@ -24,3 +24,7 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -Applications of Stack
         
 [Day 3 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2003/2020.12.27%20-%20Doc%20Scanner.pdf)
+
+**Day 4:** Learnt "Infix to Postfixt using stack"
+
+[Day 4 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2004/Day%204%20notes.pdf)
