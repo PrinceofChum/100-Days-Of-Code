@@ -28,3 +28,27 @@ I became bored of trying random  things and having low self-esteem. Here, I have
 **Day 4:** Learnt "Infix to Postfixt using stack"
 
 [Day 4 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2004/Day%204%20notes.pdf)
+
+**Day 5** Learnt about "Queue"
+        
+        -Introduction to Queue
+        -Implementation of Queue
+        -Applications of Queue
+        
+ [Day 5 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2005/Day%205%20Notes.pdf)
+ 
+ **Day 6** Learnt about "Priority Queue"
+       
+        -Introduction to Priority Queue
+        -Implementation of Priority Queue
+        -Applications of Priority Queue
+        
+ [Day 6 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2006/Day%206%20Notes.pdf)
+ 
+ **Day 7** Learnt "Linked List"
+ 
+        -Introduction to Linked List
+        -Implementation of Singly & Doubly Linked List
+        -Advantages & Disadvantages of DLL over SLL
+        
+[Day 7 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2007/Day%207%20Notes.pdf)
