@@ -52,3 +52,11 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -Advantages & Disadvantages of DLL over SLL
         
 [Day 7 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2007/Day%207%20Notes.pdf)
+
+**Day 8**
+
+        -Introduction to Circular Linked List
+        -Applications of Circular Linked List
+        -Implementation of Circular Singly Linked List
+        
+[Day 8 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2008/Day%208%20Notes%20-%20Circular%20Linked%20List.pdf)
