@@ -60,3 +60,10 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -Implementation of Circular Singly Linked List
         
 [Day 8 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2008/Day%208%20Notes%20-%20Circular%20Linked%20List.pdf)
+
+**Day 9**
+
+        -Introduction to Tree and Binary Tree
+        -Implementation of Binary Tree
+
+[Day 9 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2009/Day%209%20Notes%20-%20Binary%20Tree.pdf)
