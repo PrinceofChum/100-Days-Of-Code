@@ -67,3 +67,11 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -Implementation of Binary Tree
 
 [Day 9 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2009/Day%209%20Notes%20-%20Binary%20Tree.pdf)
+
+**Day 10** 
+
+        -Introduction to Trie
+        -Implementation of Trie
+        -How Tries are used
+
+[Day 10 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2010/Day%2010%20Notes%20-%20Trie.pdf)
