@@ -75,3 +75,16 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -How Tries are used
 
 [Day 10 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2010/Day%2010%20Notes%20-%20Trie.pdf)
+
+**Day 11**
+
+        -Modules and Packages
+ 
+ [Day 11 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2011/Day%2011%20Notes%20-%20Modules%20and%20Packages.pdf)
+ 
+ **Day 12**
+ 
+        -Improving Naive
+        -Eucldin's Algo for gcd.
+   
+[Day 12 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2012/Day%2012%20Notes%20-%20Improving%20Naive.pdf)
