@@ -88,3 +88,11 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -Eucldin's Algo for gcd.
    
 [Day 12 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2012/Day%2012%20Notes%20-%20Improving%20Naive.pdf)
+
+**Day 13** Learnt Graph.
+
+        -Introduction to Graph
+        -Simple Implementation of Graph
+        -Application of Graph
+
+[Day 13 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2013/Day%2013%20Notes%20-%20Introduction%20to%20Graph.pdf)
