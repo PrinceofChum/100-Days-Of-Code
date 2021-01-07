@@ -96,3 +96,10 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -Application of Graph
 
 [Day 13 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2013/Day%2013%20Notes%20-%20Introduction%20to%20Graph.pdf)
+
+**Day 14**
+        
+        -Overview on Heapq
+        -Application of Heapq
+        
+[Day 14 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2014/Day%2014%20Notes%20-%20Heapq%20Overview.pdf)
