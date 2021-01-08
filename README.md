@@ -103,3 +103,10 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -Application of Heapq
         
 [Day 14 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2014/Day%2014%20Notes%20-%20Heapq%20Overview.pdf)
+
+**Day 15** Graph Traversal.
+
+        -BFS Algo and Implementation
+        -DFS Algo and Implementation
+       
+[Day 15 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2015/Day%2015%20Notes%20-%20BFS%20and%20DFS%20in%20Graph.pdf)
