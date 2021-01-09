@@ -1,4 +1,4 @@
-def compare_lists(llist1, llist2):
+def compare_lists (llist1, llist2):
     while llist1 and llist2:
         if llist1.data != llist2.data:
             return 0
