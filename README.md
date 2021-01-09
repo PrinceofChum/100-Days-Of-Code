@@ -110,3 +110,9 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -DFS Algo and Implementation
        
 [Day 15 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2015/Day%2015%20Notes%20-%20BFS%20and%20DFS%20in%20Graph.pdf)
+
+**Day 16**
+        
+        -Intro to Min Heap vs Max Heap.
+       
+ [Day 16 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2016/Day%2016%20Notes%20-%20Intro%20to%20Min%20Heap%20vs%20Max%20Heap.pdf)
