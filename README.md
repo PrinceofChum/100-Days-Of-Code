@@ -116,3 +116,10 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -Intro to Min Heap vs Max Heap.
        
  [Day 16 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2016/Day%2016%20Notes%20-%20Intro%20to%20Min%20Heap%20vs%20Max%20Heap.pdf)
+ 
+ **Day 17**
+        
+        -Min Heap Implementation
+        -Max Heap Algorithm
+
+[Day 17 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2017/Day%2017%20Notes%20-%20Min%20Heap%20Implementation.pdf)
