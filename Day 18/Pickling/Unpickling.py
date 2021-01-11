@@ -22,4 +22,4 @@ for obj in objectList:
     elif isinstance(obj,AdditionalReason.AdditionalReason):
         obj.getAdditionalReason()
     else:
-        print('\nUnknown type ',type(obj))
+        print('\nUnknown type ', type(obj))
