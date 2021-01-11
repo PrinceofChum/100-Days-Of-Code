@@ -123,3 +123,11 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -Max Heap Algorithm
 
 [Day 17 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2017/Day%2017%20Notes%20-%20Min%20Heap%20Implementation.pdf)
+
+**Day 18** Pickle in Python.
+
+        -Intro to Pickling and Unpickling
+        -Application of Pickling
+        -Implementation of Pickling and Unpickling
+
+[Day 18 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2018/Day%2018%20Notes%20-%20Pickle%20in%20Python.pdf)
