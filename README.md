@@ -138,3 +138,11 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -Implementation of QuickSort Algo
         
 [Day 19 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2019/Day%2019%20Notes%20-%20QuickSort%20Algo.pdf)
+
+**Day 20** Sorting Algorithms.
+        
+        -Why MergeSort to Linked List.
+        -Implementation of MergeSort Algo.
+
+[Day 20 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2020/Day%2020%20Notes%20-%20Sorting%20Linked%20List%20with%20Merge%20Sort.pdf)
+
