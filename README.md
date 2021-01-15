@@ -153,3 +153,9 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -Implementation of Binary Search
 
 [Day 21 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2021/Day%2021%20Notes%20-%20Searching%20Algorithms.pdf) 
+
+**Day 22**
+
+        -FLAMES
+        
+[Day 22 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2022/Flames.pdf)
