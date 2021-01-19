@@ -159,3 +159,21 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -FLAMES
         
 [Day 22 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2022/Flames.pdf)
+
+**Day 23**
+
+        -Check Balanced Brackets
+       
+[Day 23 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2023/Check%20Brackets.py)
+
+**Day 24**
+
+        -Stack with Max (Naive)
+    
+[Day 24 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2024/Stack%20With%20Max%20(Naive).pdf)
+
+**Day 25**
+
+        -Love Calculator
+        
+ [Day 25 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2025/Love%20Calculator.py)
