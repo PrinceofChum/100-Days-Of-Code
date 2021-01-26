@@ -177,3 +177,44 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -Love Calculator
         
  [Day 25 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2025/Love%20Calculator.py)
+
+**Day 26** 
+
+        -Merge Two Sorted Arrays
+        -Find Subarray with given sum
+        
+ [Day 26 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2026/Day%2026%20Notes.pdf)
+ 
+ **Day 27** 
+ 
+        -Find duplicates
+        -Find missing number
+        -Array Rotation
+        
+ [Day 27 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2027/Day%2027%20Notes%20-%20Simple%20Array%20Problems.pdf)
+ 
+ **Day 28** Detect Loop in Linked List
+ 
+        -without hash map
+        -Floyd's cycle - finding algorithm
+        
+ [Day 28 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2028/Day%2028%20Notes%20-%20Detect%20Loop%20In%20Linked%20List.pdf)
+ 
+ **Day 29**
+ 
+        -Rotate a linked list
+        -Merge two sorted linked lists
+        
+ [Day 29 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2029/Day%2029%20Notes%20-%20Rotate%20and%20Merge%20Linked%20Lists.pdf)
+ 
+ **Day 30**
+
+        -Search Element in a linked list
+                -Iterative Solution
+                -Reursive solution
+        -Find middle of a linked list
+                -Traverse a whole list
+                -Using fast and slow poiters
+                -Using extra space
+
+[Day 30 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2030/Day%2030%20Notes%20-%20Search%20element%20%26%20Find%20middle%20of%20Linked%20list.pdf)
