@@ -218,3 +218,30 @@ I became bored of trying random  things and having low self-esteem. Here, I have
                 -Using extra space
 
 [Day 30 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2030/Day%2030%20Notes%20-%20Search%20element%20%26%20Find%20middle%20of%20Linked%20list.pdf)
+
+**Day 31** Stack Problems
+
+        -Sort a stack using recursion
+        -Implement k stacks in a single list
+        
+[Day 31 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2031/Day%2031%20Notes%20-%20Stack%20Problems.pdf)
+
+**Day 32** Tree Problems
+
+        -Minimum Value in BST
+        -Height of a binary tree
+        
+[Day 32 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2032/Day%2032%20Notes%20-%20Simple%20Tree%20problems.pdf)
+
+**Day 33** 
+
+        -Find k'th largest element in BST
+        
+[Day 33 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2033/Day%2033%20Notes%20-%20A%20BST%20Problem.pdf)
+
+**Day 34** Array Problems
+
+        -Count inversions
+        -Sliding window maximum
+        
+[Day 34 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2034/Day%2034%20Notes%20-%20Array%20Problems.pdf)
