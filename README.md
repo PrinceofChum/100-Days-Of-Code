@@ -245,3 +245,18 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -Sliding window maximum
         
 [Day 34 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2034/Day%2034%20Notes%20-%20Array%20Problems.pdf)
+
+**Day 35** Array Problems
+
+        -Treapping Rain Water
+        -Longest sum contiguous subarray
+        
+ [Day 35 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2035/Day%2035%20Notes%20-%20Trapping%20Rain%20Water%20%26%20Kadane's%20Algo.pdf)
+ 
+ **Day 36** 
+ 
+        -Disign a data structure for LRU Cache
+        
+[Day 36 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2036/Day%2036%20Notes%20-%20Design%20a%20LRU%20Cache.pdf)
+
+
