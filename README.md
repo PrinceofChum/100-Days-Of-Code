@@ -265,5 +265,10 @@ I became bored of trying random  things and having low self-esteem. Here, I have
 
 [Day 37 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2037/Day%2037%20Notes%20-%20Clone%20a%20linked%20list.pdf)
 
+**Day 38 Notes**
+
+        -Finding interaction point of two linked lists.
+        
+[Day 38 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2038/Day%2038%20Notes%20-%20Finding%20Intersection.pdf)
 
 
