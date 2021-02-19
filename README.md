@@ -271,4 +271,7 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         
 [Day 38 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2038/Day%2038%20Notes%20-%20Finding%20Intersection.pdf)
 
+**Day 39 Notes**
 
+        - Stack -- getmin() with O(1) time and O(1) extra space
+[Day 39 Notes]()
