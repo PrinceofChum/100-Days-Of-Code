@@ -274,4 +274,5 @@ I became bored of trying random  things and having low self-esteem. Here, I have
 **Day 39 Notes**
 
         - Stack -- getmin() with O(1) time and O(1) extra space
-[Day 39 Notes]()
+
+[Day 39 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2039/Stack%20--%20getmin()%20with%20O(1)%20time.pdf)
