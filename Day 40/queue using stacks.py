@@ -2,31 +2,26 @@
 # one stack and recursive call stack.  
 class Queue: 
     def __init__(self): 
-        self.s = [] 
-          
+        self.s = []      
     # Enqueue an item to the queue  
     def enQueue(self, data): 
         self.s.append(data) 
-          
+        
     # Dequeue an item from the queue  
     def deQueue(self): 
         # Return if queue is empty 
         if len(self.s) <= 0: 
             print('Queue is empty') 
             return
-          
         # pop an item from the stack 
         x = self.s[len(self.s) - 1] 
-        self.s.pop() 
-          
+        self.s.pop()   
         # if stack become empty 
         # return the popped item 
         if len(self.s) <= 0: 
-            return x 
-              
+            return x       
         # recursive call 
-        item = self.deQueue() 
-          
+        item = self.deQueue()   
         # push popped item back to 
         # the stack 
         self.s.append(x) 
