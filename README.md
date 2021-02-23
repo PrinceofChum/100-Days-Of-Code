@@ -282,3 +282,10 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -Queue using Stack
         
 [Day 40 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2040/Queue%20using%20Stack.pdf)
+
+**Day 41**
+
+        -Check for BST
+        -Vertical traversal of binary tree
+        
+[Day 41 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2041/Vertical%20traversal%20of%20binary%20tree.py)
