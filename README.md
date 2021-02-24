@@ -289,3 +289,9 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -Vertical traversal of binary tree
         
 [Day 41 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2041/Vertical%20traversal%20of%20binary%20tree.py)
+
+**Day 42**
+
+        -Boundary traversal of binary tree
+        
+[Day 42 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2042/Day%2042%20Notes%20-%20Boundary%20traversal%20of%20binary%20tree.pdf)
