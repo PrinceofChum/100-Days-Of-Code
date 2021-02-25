@@ -300,4 +300,4 @@ I became bored of trying random  things and having low self-esteem. Here, I have
 
         -Delete node in BST
         
-[Day 43 Notes]()
+[Day 43 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2043/Day%2043%20Notes%20-%20Delete%20node%20in%20BST.pdf)
