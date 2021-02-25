@@ -16,8 +16,7 @@ def inorder(root):
         print root.key,
         inorder(root.right)
  
-# A utility function to insert a
-# new node with given key in BST
+# A utility function to insert a new node with given key in BST
 def insert(node, key):
     # If the tree is empty, return a new node
     if node is None:
