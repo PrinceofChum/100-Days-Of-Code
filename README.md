@@ -295,3 +295,9 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -Boundary traversal of binary tree
         
 [Day 42 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2042/Day%2042%20Notes%20-%20Boundary%20traversal%20of%20binary%20tree.pdf)
+
+**Day 43**
+
+        -Delete node in BST
+        
+[Day 43 Notes]()
