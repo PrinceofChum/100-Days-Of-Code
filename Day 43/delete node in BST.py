@@ -1,3 +1,7 @@
+# Python program to demonstrate delete operation
+# in binary search tree
+ 
+# A Binary Tree Node
 class Node: 
     # Constructor to create a new node
     def __init__(self, key):
