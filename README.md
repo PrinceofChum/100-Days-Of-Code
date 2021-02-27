@@ -308,3 +308,8 @@ I became bored of trying random  things and having low self-esteem. Here, I have
 
 [Day 44 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2044/Feet%20To%20Meter.py)
 
+**Day 45**
+
+        - Detect Cycle in Graph
+
+[Day 45 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2045/Detect%20cycle%20in%20graph.pdf)
