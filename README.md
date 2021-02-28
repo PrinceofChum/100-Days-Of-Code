@@ -313,3 +313,9 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         - Detect Cycle in Graph
 
 [Day 45 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2045/Detect%20cycle%20in%20graph.pdf)
+
+**Day 46** graph problem.
+
+        - Find number of islands.
+
+[Day 46 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2046/Day%2046%20Notes%20-%20Find%20number%20of%20islands%20(Graph%20problem).pdf)
