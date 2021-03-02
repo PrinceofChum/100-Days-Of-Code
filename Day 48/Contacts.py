@@ -1,6 +1,5 @@
 import fileinput
 
-
 class Node:
     def __init__(self, children=None, is_leaf=False, visited=0):
         if children is None:
@@ -49,9 +48,7 @@ def extract_prefix(str1, str2):
         n += 1
     return str1[:n], str1[n:], str2[n:]
 
-
 ############
-
 root = Node()
 
 inputs = fileinput.input()
@@ -60,7 +57,6 @@ num_operations = int(first_line)
 
 for ii in range(num_operations):
     _action, _name = inputs.readline().strip().split()
-
     if _action == 'add':
         add(root, _name)
     elif _action == 'find':
