@@ -319,3 +319,15 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         - Find number of islands.
 
 [Day 46 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2046/Day%2046%20Notes%20-%20Find%20number%20of%20islands%20(Graph%20problem).pdf)
+
+**Day 47** Graph problem.
+
+        - Implementing Dijkstra Algorithm
+
+[Day 47 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2047/Implementing%20Dijkstra%20Algorithm.pdf)
+
+**Day 48** HckerRank Problem in Trie.
+
+        -Contacts
+        
+[Day 48 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2048/Contacts%20using%20Trie.pdf)
