@@ -337,3 +337,9 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -Simple Text Editor
         
 [Day 49 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2049/Day%2049%20Notes%20-%20Simple%20Text%20Editor.pdf)
+
+**Day 50** [HackerRAnk Problem](https://www.hackerrank.com/challenges/castle-on-the-grid/problem)
+
+        -Castle on the grid
+
+[Day 50 Notes]()
