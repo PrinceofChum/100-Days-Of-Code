@@ -32,3 +32,5 @@ for i in range(len(B)):
 for i in range(len(A)):
     while A[i] != []:
         print(A[i].pop(),)
+
+        
