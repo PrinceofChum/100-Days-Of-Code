@@ -342,4 +342,11 @@ I became bored of trying random  things and having low self-esteem. Here, I have
 
         -Castle on the grid
 
-[Day 50 Notes]()
+[Day 50 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2050/Day%2050%20Notes%20-%20Castle%20on%20the%20grid.pdf)
+
+**Day 51 Notes** HackerRank Problem
+
+        -Waiter
+        
+[Day 51 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2051/Day%2051%20Notes%20-%20Waiter%20%5BHackerRank%20Problem%5D.pdf)
+
