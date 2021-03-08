@@ -350,3 +350,15 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         
 [Day 51 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2051/Day%2051%20Notes%20-%20Waiter%20%5BHackerRank%20Problem%5D.pdf)
 
+**Day 52** HackerRank Problem - [Jim and the Skyscrapers](https://lnkd.in/d4GWKpq)
+
+        - Using List and Dictionary
+        - USing Stack
+
+[Day 52 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2052/Day%2052%20Notes%20-%20Jim%20and%20the%20Skyscrapers.pdf)
+
+**Day 53** HackerRank Problem
+
+        - Largest Rectangle
+        
+[Day 53 Notes]()
