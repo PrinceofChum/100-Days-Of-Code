@@ -361,4 +361,4 @@ I became bored of trying random  things and having low self-esteem. Here, I have
 
         - Largest Rectangle
         
-[Day 53 Notes]()
+[Day 53 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2053/Day%2053%20Notes%20-%20Largest%20Rectangle.pdf)
