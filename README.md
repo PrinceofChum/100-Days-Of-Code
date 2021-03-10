@@ -367,4 +367,6 @@ I became bored of trying random  things and having low self-esteem. Here, I have
 
         - Currency Converter
         
-[Day 54 Notes]()        
+[Day 54 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2054/currency_converter.py)        
+
+
