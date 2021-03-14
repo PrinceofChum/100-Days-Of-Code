@@ -375,3 +375,9 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         - Detect HTML links
 
 [Day 55 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2055/Day%2055%20Notes%20-%20Regex%20Problem.pdf)
+
+**Day 56 & 57**
+
+        - Loan Calculator App
+
+[Day 56 & 57 NOtes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2056%20%26%2057/loanCalculatorApp.py)
