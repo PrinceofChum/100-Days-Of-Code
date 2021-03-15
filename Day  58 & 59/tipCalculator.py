@@ -68,21 +68,5 @@ class TipCalculator():
         self.tip.set("")
 
 
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
         
 TipCalculator()
