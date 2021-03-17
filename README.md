@@ -388,3 +388,7 @@ I became bored of trying random  things and having low self-esteem. Here, I have
 
 [DAy 58 & 59 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2056%20%26%2057/loanCalculatorApp.py)
 
+**Day 60, 61 & 62**
+
+        (working on a mini project)
+
