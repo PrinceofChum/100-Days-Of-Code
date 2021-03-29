@@ -395,4 +395,5 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         - Add two numbers.
         - Puppy and Sum    
     
-[Day 60]()
+[Day 60]
+_
