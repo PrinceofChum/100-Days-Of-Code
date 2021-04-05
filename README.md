@@ -395,5 +395,12 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         - Add two numbers.
         - Puppy and Sum    
     
-[Day 60]
-_
+[Day 60](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2060/Day%2060%20Notes%20-%20Codechef%20Beginner.pdf)
+
+**Day 61**
+
+        -Enormous Input Test
+        - Find Reminder
+        - Sum of digits
+
+[Day 61 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2061/Day%2061%20Notes%20-%20Codechef%20Beginner.pdf)
