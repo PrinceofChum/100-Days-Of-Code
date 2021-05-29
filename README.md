@@ -405,8 +405,18 @@ I became bored of trying random  things and having low self-esteem. Here, I have
 
 [Day 61 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2061/Day%2061%20Notes%20-%20Codechef%20Beginner.pdf)
 
-**Day 62** Regex Problem
+**Day 62** 
 
         -Play music using Python
         
  [Day 62 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/tree/main/Day%2062)
+
+**Day 63** Biginner Codechef
+
+        -First and last digit
+        -Small FActorial
+        -Turbo set
+        
+ [Day 63 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/tree/main/Day%2063)
+
+
