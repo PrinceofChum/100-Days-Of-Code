@@ -411,7 +411,7 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         
  [Day 62 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/tree/main/Day%2062)
 
-**Day 63** Biginner Codechef
+**Day 63** Beginner Codechef
 
         -First and last digit
         -Small FActorial
@@ -419,4 +419,32 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         
  [Day 63 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/tree/main/Day%2063)
 
+**Day 64** Codechef's DSA Learning Series
 
+        -Buy please
+        -Is both or not
+        
+ [Day 64 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2064/Day%2064%20Notes.pdf)
+
+**Day 65** Codechef's DSA Learning Series
+
+        -Factors Finding
+        -Finding Second Largest
+        
+ [Day 65 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2065/Day%2065%20Notes%20-%20Riverse%20list.pdf)
+
+**Day 66** Codechef's DSA Learning Series
+
+        -Range odd
+        -Raju and Trip
+        -Find Me
+        
+ [Day 66 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2066/Day%2066%20Notes%20-%20List%2C%20Condition.pdf)
+
+**Day 67 & 68** Codechef's DSA Learning Series
+
+        -Range odd
+        -Raju and Trip
+        -Find Me
+        
+ [Day 67 & 68 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2067%20%26%2068/Day%2067%20%26%2068%20Notes.pdf)
