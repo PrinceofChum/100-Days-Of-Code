@@ -448,3 +448,18 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         -Find Me
         
  [Day 67 & 68 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2067%20%26%2068/Day%2067%20%26%2068%20Notes.pdf)
+
+**Day 69 & 70** Codechef's DSA Learning Series
+
+        -Life, the universe, and everything
+        -Reverse the number
+        -Lapindromes
+        
+ [Day 69 & 70 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2069%20%26%2070/Day%2069%20%26%2070%20Notes%20-.pdf)
+
+**Day 71** Codechef's DSA Learning Series
+
+        -Smart Phone
+        
+ [Day 71 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2071/Day%2071%20Notes.pdf)
+ 
