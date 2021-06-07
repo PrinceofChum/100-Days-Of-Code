@@ -463,3 +463,17 @@ I became bored of trying random  things and having low self-esteem. Here, I have
         
  [Day 71 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2071/Day%2071%20Notes.pdf)
  
+ **Day 72** Codechef's DSA Learning Series
+
+        -Carvans
+        
+ [Day 72 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2072/Day%2072%20Notes.pdf)
+ 
+ **Day 73** Codechef's DSA Learning Series
+
+        -Coin Flip
+        
+ [Day 73 Notes](https://github.com/PrinceofChum/100-Days-Of-Code/blob/main/Day%2073/Day%2073%20Notes%20-%20CodeChef's%20Coin%20Flip.pdf)
+ 
+ 
+ 
